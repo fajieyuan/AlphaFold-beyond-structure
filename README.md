@@ -1,5 +1,5 @@
-# AlphaFold-beyond-structure
-Using AlphaFold protein language model to predict protein functions
+# AlphaFold-beyond-structure-prediction
+Using AlphaFold protein language model to predict various protein functional properties
 
 AlphaFold has revolutionized protein structure prediction, while its capacibility has not been examined for protein function prediction. We have recently carefully studied AlphaFold's Evoformer --- a specicial protein language model--- representation in terms of function prediction, including both protein annotation prediction and
 protein fitness prediction tasks (stability, fluorescence and zero-shot mutational effect prediction). Please see our paper on Arxiv: https://arxiv.org/pdf/2206.06583.pdf. We would release our code and datasets soon.
